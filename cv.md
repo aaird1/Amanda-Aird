@@ -6,5 +6,5 @@ permalink: /cv/
 
 You can download my CV here: [Download CV](/cv.pdf){:download}
 
-<iframe src="/assets/cv.pdf" width="100%" height="1200px" style="border:none;">
+<iframe src="/cv.pdf" width="100%" height="1200px" style="border:none;">
 </iframe>
