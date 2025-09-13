@@ -8,7 +8,11 @@ social_links:
   email: amanda.aird@colorado.edu
   linkedin: linkedin.com/in/amanda-aird/
 
-header_pages:
-  - index.html
-  - publications.md
-  - cv.pdf
+# Custom navigation labels
+nav:
+  - title: "About Me"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv.pdf
