@@ -7,4 +7,9 @@ theme: minima
 social_links:
   email: amanda.aird@colorado.edu
   linkedin: linkedin.com/in/amanda-aird/
+
+header_pages:
+  - index.html
+  - publications.md
+  - cv.md
   
