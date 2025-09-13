@@ -1,12 +1,11 @@
 title: "Amanda Aird"
-author: "Amanda Aird"
 description: "PhD Student in Information Science at CU Boulder"
 theme: minima
 
 # Optional links to appear in the footer
-social_links:
-  email: amanda.aird@colorado.edu
-  linkedin: linkedin.com/in/amanda-aird/
+
+email: amanda.aird@colorado.edu
+linkedin: linkedin.com/in/amanda-aird/
 
 # Custom navigation labels
 nav:
