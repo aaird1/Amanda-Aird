@@ -1,17 +1,16 @@
 title: "Amanda Aird"
-description: "PhD Student in Information Science at CU Boulder"
-theme: minima
-
-# Optional links to appear in the footer
+author: "Amanda Aird"
+description: "PhD Candidate in Information Science at CU Boulder — Responsible AI & stakeholder-aware design for recommender systems"
+url: "https://amandaaird.com"
+baseurl: ""
 
 email: amanda.aird@colorado.edu
 linkedin: linkedin.com/in/amanda-aird/
 
-# Custom navigation labels
-nav:
-  - title: "About Me"
-    url: /
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README
